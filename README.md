@@ -2,7 +2,10 @@
 this repo is for the config I use in my terminal, shell, themes, plugins ....
 
 
-### My current setup
+## My current setup
+## New
+![New screenshot](latest.png
+## Old
 ![Terminal screenshot](screenshot.gif)
 
 ## What I'm using
