@@ -24,5 +24,18 @@ Everytime I open my terminal I'm greeted with this AWEOSME Rick and Morty that I
 
 ## What I'm using
 
-- [FZF](https://github.com/junegunn/fzf) A command-line fuzzy finder
-- [Tmux](https://github.com/tmux/tmux/wiki) A terminal multiplexer
+- **FZF**
+  ![FZF](img/fzf.jpg) <br>
+  FZF stands for “fuzzy finder”. It’s a general-purpose tool that lets you find files, commands in the history, processes, git commits, and more using a fuzzy search.
+
+- **TMUX**
+  ![Tmux](img/tmux.png) <br>
+  Tmux is a terminal multiplexer for Unix-like operating systems. It allows multiple terminal sessions to be accessed simultaneously in a single window.
+
+- **ripgrep**
+  ![rg](img/rg.gif) <br>
+  Ripgrep is an alternative to the grep command - **much faster one**, with sane defaults and colorized output. <br>
+  It skips files ignored by .gitignore and hidden ones
+- **htop**
+  ![htop](img/htop.jpg) <br>
+  To put it as simple as possible, htop is top on steroids - colorful, with plenty of options, and overall more comfortable to use.
