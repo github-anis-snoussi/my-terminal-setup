@@ -6,7 +6,7 @@ This repo is meant to keep track of the dirrefent CLI tools that made my life ea
 
 I use ZSH terminal because it offers a variety of plugins and themes that will definitely appeal to all tastes. <br>
 I also use [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) which is a framework for managing your zsh configuration with sevral plugins andthemes. <br>
-And to finish, I use rocking [Powerlevel10k](https://github.com/romkatv/powerlevel10k) as my theme becuase it doesn't only look cool, but it's a great help when dealing with git repos.
+And to finish, I am rocking [Powerlevel10k](https://github.com/romkatv/powerlevel10k) as my theme becuase it doesn't only look cool, but it's a great help when dealing with git repos.
 
 ![Git example](img/zsh.png)
 
