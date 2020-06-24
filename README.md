@@ -39,3 +39,21 @@ Everytime I open my terminal I'm greeted with this AWEOSME Rick and Morty that I
 - **htop**
   ![htop](img/htop.jpg) <br>
   To put it as simple as possible, htop is top on steroids - colorful, with plenty of options, and overall more comfortable to use.
+- **ctop**
+  ![ctop](img/ctop.gif) <br>
+  ctop is a top-like interface for Docker containers. It gives you:
+  - A list of running and stopped containers
+  - Statistics like memory usage, CPU, and an additional detailed window for each container (with open ports and other information)
+  - A quick menu to stop, kill, or show logs of a given container
+- **Lazy Docker**
+  ![lazydocker](img/lazydocker.gif) <br>
+  It’s a full-fledged terminal UI for managing Docker with even more features.
+- **Asciinema**
+  ![asciinema](img/asciinema.jpg) <br>
+  asciinema is a tool that you can use to record your terminal sessions. But, unlike recording GIFs, it will let your viewers select and copy the code from those recordings!
+- **Tree**
+  ![tree](img/tree.png) <br>
+  If you want to present the content of a given directory, tree is a go-to tool to do that. It displays all the subdirectories and files in a nice, tree-like structure:
+- **Bat**
+  ![bat](img/bat.jpg) <br>
+  Like cat but better, adds syntax highlighting, git gutter marks (when applicable), automatic paging (if the file is large), and in general, makes the output much more enjoyable to read.
