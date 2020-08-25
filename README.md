@@ -57,3 +57,12 @@ Everytime I open my terminal I'm greeted with this AWEOSME Rick and Morty that I
 - **Bat**
   ![bat](img/bat.jpg) <br>
   Like cat but better, adds syntax highlighting, git gutter marks (when applicable), automatic paging (if the file is large), and in general, makes the output much more enjoyable to read.
+- **Xclip**
+xclip provides a conduit between commands you run in a terminal window and the clipboard in a Linux graphical desktop environment.
+I use these aliases to copy and paste to the terminal
+```
+#copies the piped input onto the clipboard 
+alias copy="xclip -selection c"
+#pastes the clipboards contents into the terminal
+alias paste="xclip -selection clipboard -o"
+```
