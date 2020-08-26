@@ -55,7 +55,7 @@ OLD | NEW
 - **Bat**
   ![bat](img/bat.jpg) <br>
   Like cat but better, adds syntax highlighting, git gutter marks (when applicable), automatic paging (if the file is large), and in general, makes the output much more enjoyable to read.
-- **Xclip**
+- **Xclip** <br>
   xclip provides a conduit between commands you run in a terminal window and the clipboard in a Linux graphical desktop environment.
   I use these aliases to copy and paste to the terminal
   ```
@@ -64,7 +64,7 @@ OLD | NEW
   #pastes the clipboards contents into the terminal
   alias paste="xclip -selection clipboard -o"
   ```
-- **jq**
+- **jq** <br>
   ![jq](img/jq.png) <br>
   jq is like sed for JSON data - you can use it to slice and filter and map and transform structured data with the same ease that sed , awk , grep and friends let you play with text.
   + to beautify json:
