@@ -96,3 +96,10 @@ ok: [wintel0] => {
 PLAY RECAP ****************************************************************
 wintel0: ok=16   changed=0    unreachable=0    failed=0    skipped=1    rescued=0    ignored=0
 ```
+
+## Making a simple GUI for Ansible
+With all the Roles and playbooks set up, you will end up with a big laundry list of different playbooks, each doing a different task. <br>
+
+This big list of playbooks becomes hard to remember, most of the time I have to look through my files first to see what I have before I can type out the command. So to help with this, I use a simple GUI to let me look at what playbooks I have and select them, sometimes I also want to be able to limit my run to certain hosts. This is where that `dialog` comes in handy. Forget having to learn any GUI/TUI libraries, `dialog` is the way to go for quick interactivity from bash scripts. <br>
+Running the script `run_ansible.sh` will bring up a file selection dialogue that'll let you select which playbook to run. It'll also ask you which host to limit the run to (if you uncomment out that section of my script); and also ask you whether you want to enter a password or not and try to use keyfiles. <br>
+![Ansible GUI](../img/ansible.png)
