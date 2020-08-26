@@ -65,7 +65,7 @@ OLD | NEW
   alias paste="xclip -selection clipboard -o"
   ```
 - **jq**
-![jq](img/jq.png) <br>
+  ![jq](img/jq.png) <br>
   jq is like sed for JSON data - you can use it to slice and filter and map and transform structured data with the same ease that sed , awk , grep and friends let you play with text.
   + to beautify json:
   `
