@@ -14,13 +14,11 @@ And to finish, I am rocking [Powerlevel10k](https://github.com/romkatv/powerleve
 
 Everytime I open my terminal I'm greeted with this AWEOSME Rick and Morty that I made myself (check it [here](startup)), I hope you'll appreciate this, even if you're not a fan of the animated tv show.
 
-- New
 
-![New screenshot](img/latest.png)
+OLD | NEW
+------------ | -------------
+![Terminal screenshot](img/screenshot.gif) | ![New screenshot](img/latest.png)
 
-- Old
-
-![Terminal screenshot](img/screenshot.gif)
 
 ## What I'm using
 
