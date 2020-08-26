@@ -1,0 +1,10 @@
+---
+- name: Installing Common Apt packages
+  become: yes
+  become_method: sudo
+  apt:
+    pkg:
+    - vim
+    - tmux
+    - htop
+    - jq

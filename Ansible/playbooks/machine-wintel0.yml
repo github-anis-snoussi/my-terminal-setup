@@ -1,0 +1,11 @@
+---
+- hosts: wintel0
+  tasks:
+  - include_role:
+      name: software-common-apt
+
+  - include_role:
+      name: software-python
+
+  - include_role:
+      name: software-docker

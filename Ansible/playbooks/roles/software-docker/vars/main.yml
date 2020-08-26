@@ -1,0 +1,5 @@
+---
+compose_version: "1.25.4"
+compose_path: /usr/local/bin/docker-compose
+credential_version: "0.6.3"
+credential_path: /usr/local/bin/docker-credential-secretservice
